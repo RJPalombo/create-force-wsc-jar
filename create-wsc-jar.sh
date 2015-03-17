@@ -1,7 +1,7 @@
 #!/bin/bash
 # ------------------------------------------------------------------
-# [Author] Title
-#          Description
+# RJ Palombo
+# This script will download necessary dependencies, create your salesforce wsc jar and create a WSC directory containing all files.
 # ------------------------------------------------------------------
 
 VERSION=0.1.0
