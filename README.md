@@ -8,4 +8,4 @@ Usage
 
 Note
 ----
-This scrip is for mac only. Should be pretty easy to edit for other NIX systems
+This script is for mac only. Should be pretty easy to port to other NIX systems
